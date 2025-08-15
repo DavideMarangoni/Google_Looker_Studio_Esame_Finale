@@ -12,7 +12,7 @@ File che compongono l'esame finale del modulo Google Looker Studio.
   - Le canzoni corte vincono di più?
   - Chi vince di più? uomo o donna?
 
-**DATI USATI**
+**DATI UTILIZZATI**
   In questa cartella puoi trovare i dati utilizzati per effettuare questa analisi:
   
   I dati utilizzati per questa analisi sono relativi alle edizioni di Sanremo dal 1951 al 2023 organizzati in tre tabelle:
